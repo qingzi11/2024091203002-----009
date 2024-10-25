@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/vites/",
+  base: "/2024091203002-----009/",
   title: "我的第一个vitepress",
   description: "A VitePress Site",
   themeConfig: {
